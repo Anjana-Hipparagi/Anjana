@@ -1,39 +1,56 @@
-# Hi there 👋, I'm Anjana
+# Hi 👋, I'm Anjana
 
-🎓 Electrical & Electronics Engineering Student  
-💻 Full Stack Development Intern (EV Domain)  
-🚀 Passionate about building real-world tech solutions  
+💻 Aspiring Full Stack Developer  
+⚡ Passionate about building scalable web applications  
+🚀 Exploring modern technologies and real-world projects  
 
 ---
 
 ## 👩‍💻 About Me
-- 🌱 Currently learning Full Stack Development  
-- ⚡ Interested in EV Technology & Smart Systems  
-- 🛠️ Love working on practical projects  
-- 🎯 Goal: To become a skilled software developer  
+- 🌱 Currently learning **Full Stack Development**
+- 🔧 Working with frontend & backend technologies
+- ⚡ Interested in **EV tech + smart systems**
+- 🎯 Goal: Become a professional Full Stack Developer
 
 ---
 
-## 🔧 Skills
-- 💻 Languages: Java, JavaScript, HTML5, CSS  
-- 🌐 Web: Frontend & Backend Basics  
-- 🛠️ Tools: Git, GitHub, VS Code  
-- 📱 IoT: Blynk App (for smart systems)  
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- HTML, CSS, JavaScript  
+- Responsive Web Design  
+
+### ⚙️ Backend
+- Java (Basics)  
+- Node.js (Learning)  
+
+### 🗄️ Database
+- MySQL (Basics)  
+
+### 🔧 Tools
+- Git & GitHub  
+- VS Code  
 
 ---
 
 ## 📌 Projects
 - 🚦 Smart Traffic Simulation  
-- 🚗 Digital Parking System using Blynk
+- 🚗 Digital Parking System (Blynk App)
 - 💡 Controlling lights using LDR sensor 
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: anjanahipparagi3@gmail.com 
-- 💼 LinkedIn:
-https://www.linkedin.com/in/anjana-hipparagi-64889a337
+## 📈 Currently Learning
+- React.js  
+- Backend APIs  
+- Database Integration  
 
 ---
 
-✨ “Learning today, building tomorrow.”
+## 📫 Connect With Me
+- 📧 Email: anjanahipparagi3@gmail.com 
+- 💼 LinkedIn:https://www.linkedin.com/in/anjana-hipparagi-64889a337 
+
+---
+
+✨ "Code. Learn. Build. Repeat."
