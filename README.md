@@ -1,63 +1,39 @@
-# Anjana
-# 💻 Java & Web Development Practice
+# Hi there 👋, I'm Anjana
 
-This repository contains my daily coding practice in Java and Web Development.
-
----
-
-## 📌 What I Am Practicing
-
-### 🔹 Java
-- Variables and Data Types
-- Operators
-- If-Else and Switch
-- Loops (for, while, do-while)
-- Arrays
-- Basic OOP Concepts
-
-### 🔹 Web Development
-- HTML5
-- CSS3
-- JavaScript Basics
+🎓 Electrical & Electronics Engineering Student  
+💻 Full Stack Development Intern (EV Domain)  
+🚀 Passionate about building real-world tech solutions  
 
 ---
 
-## 📂 Folder Structure
-
-practice/
-│── java/
-│   ├── BasicPrograms.java
-│   ├── Loops.java
-│   ├── Arrays.java
-│
-│── frontend/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
+## 👩‍💻 About Me
+- 🌱 Currently learning Full Stack Development  
+- ⚡ Interested in EV Technology & Smart Systems  
+- 🛠️ Love working on practical projects  
+- 🎯 Goal: To become a skilled software developer  
 
 ---
 
-## 🎯 Goal
-
-- Improve coding skills  
-- Practice daily  
-- Build strong foundation in programming  
-
----
-
-## 📅 Progress
-
-- Day 1: Java Basics  
-- Day 2: Loops  
-- Day 3: Arrays  
+## 🔧 Skills
+- 💻 Languages: Java, JavaScript, HTML5, CSS  
+- 🌐 Web: Frontend & Backend Basics  
+- 🛠️ Tools: Git, GitHub, VS Code  
+- 📱 IoT: Blynk App (for smart systems)  
 
 ---
 
-## 🙋‍♀️ Author
-
-Anjana Hipparagi  
-Web Developer | Java Enthusiast  
+## 📌 Projects
+- 🚦 Smart Traffic Simulation  
+- 🚗 Digital Parking System using Blynk
+- 💡 Controlling lights using LDR sensor 
 
 ---
 
-⭐ This repository is updated regularly with my practice work.
+## 📫 Contact Me
+- 📧 Email: anjanahipparagi3@gmail.com 
+- 💼 LinkedIn:
+https://www.linkedin.com/in/anjana-hipparagi-64889a337
+
+---
+
+✨ “Learning today, building tomorrow.”
